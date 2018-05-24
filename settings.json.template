@@ -7,7 +7,7 @@
   // name your instance!
   "title": "Azart - Block explorer",
 
-  "address": "explorer.azartpay.org",
+  "address": "explorer.azartpay.com",
 
   // coin name
   "coin": "Azart",
